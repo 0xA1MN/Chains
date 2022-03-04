@@ -22,36 +22,36 @@ Select path ...
         > 5
       
 [+] Playing With Subdomains
-    Crt.sh 				              	@ ~/Target.com/Assets_Identifying/subdomains/separated/crtsh.live
-    Assetfinder 			          	@ ~/Target.com/Assets_Identifying/subdomains/separated/Assetfinder.live
-    Subfinder 				          	@ ~/Target.com/Assets_Identifying/subdomains/separated/subfinder.live
-    Amass Enum Passive 			    	@ ~/Target.com/Assets_Identifying/subdomains/separated/amass_enum_passive.live
-    Amass Enum Active 			    	@ ~/Target.com/Assets_Identifying/subdomains/separated/amass_enum_active.live
-    All Live Subs 		        		@ ~/Target.com/Assets_Identifying/subdomains/subs.live
-    Final Destination 	       			@ ~/Target.com/Assets_Identifying/subdomains/subs.live.redirection
-    GoWitness 				          	@ ~/Target.com/Assets_Identifying/goWitness.subs
-
+    Crt.sh
+    Assetfinder
+    Subfinder
+    Amass Enum Passive
+    Amass Enum Active
+    All Live Subs
+    Final Destination
+    GoWitness
+    
 [+] Spidering
-    GoSpider					        @ ~/Target.com/Content_Gathering/spidering
-    Arjun						        @ ~/Target.com/Content_Gathering/params/
+    GoSpider					        
+    Arjun
 
 [+] Playing With URLs
-    Waybackurls Pure		      		@ ~/Target.com/Content_Gathering/waybackurls/waybackurls.pure
-    Smart Endpoints		        		@ ~/Target.com/Content_Gathering/waybackurls/endpoints.qs.eq
-    Vulnerable URLs		        		@ ~/Target.com/Content_Gathering/vulnerable.URLs
+    Waybackurls Pure
+    Smart Endpoints
+    Vulnerable URLs
 
 [+] Playing With Ports
-    Naabu and Nmap		        		@ ~/Target.com/Fuzzing/naabu.nmap
-    Nmap Read 			          		@ ~/Target.com/Fuzzing/nmap/nmap.read
-    Nmap Grep 			          		@ ~/Target.com/Fuzzing/nmap/nmap.gnmap
+    Naabu and Nmap
+    Nmap Read
+    Nmap Grep
     BruteSpray ...
-    BruteSpray-Output	 		    	@ ~/Target.com/Fuzzing/brutespray-output
+    BruteSpray-Output
 
 [+] Nuclei
-    Nuclei Summary  				    @ ~/Target.com/Fuzzing/nuclie/nuclie_reports.txt
+    Nuclei Summary  
 
 [+] Jaeles
-    Jaeles Summary  			      	@ ~/Target.com/Fuzzing/jaeles/jaeles-summary.txt
+    Jaeles Summary  
 ```
 
 
